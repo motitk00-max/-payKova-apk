@@ -1,0 +1,7 @@
+{
+  "name": "Kova",
+  "description": "Futuristic voice-first AI assistant with local wake word detection, Gemini Live bidirectional audio streaming, and safe Android device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
